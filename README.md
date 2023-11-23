@@ -10,7 +10,9 @@ https://github.com/JoyceBeulah/ODD2023-Datascience-Ex-09
 
 
 #PDF
-[Ex no 2.pdf](https://github.com/Sargurukumaresan/pra/files/13451343/Ex.no.2.pdf)
+1.[Ex no 2.pdf](https://github.com/Sargurukumaresan/pra/files/13451343/Ex.no.2.pdf)
+
+2.[U3-FEATURE SELECTION EXAMPLE.pdf](https://github.com/Sargurukumaresan/pra/files/13451820/U3-FEATURE.SELECTION.EXAMPLE.pdf)
 
 #IQR
 ```
