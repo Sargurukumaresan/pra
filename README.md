@@ -5,7 +5,7 @@ https://github.com/gururamu08/ODD2023-DataScience-Ex-03
 https://github.com/gururamu08/ODD2023-Datascience-Ex-05
 https://github.com/gururamu08/ODD2023-Datascience-Ex06
 https://github.com/JoyceBeulah/ODD2023-Datascience-Ex-07
-https://github.com/JoyceBeulah/ODD2023-Datascience-Ex-08
+https://github.com/sargurukumaresan/ODD2023-Datascience-Ex-08
 https://github.com/JoyceBeulah/ODD2023-Datascience-Ex-09
 
 
@@ -13,6 +13,8 @@ https://github.com/JoyceBeulah/ODD2023-Datascience-Ex-09
 1.[Ex no 2.pdf](https://github.com/Sargurukumaresan/pra/files/13451343/Ex.no.2.pdf)
 
 2.[U3-FEATURE SELECTION EXAMPLE.pdf](https://github.com/Sargurukumaresan/pra/files/13451820/U3-FEATURE.SELECTION.EXAMPLE.pdf)
+
+3.[ROOO.31.ipynb - Colaboratory.pdf](https://github.com/Sargurukumaresan/pra/files/13454456/ROOO.31.ipynb.-.Colaboratory.pdf)
 
 #IQR
 ```
