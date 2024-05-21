@@ -1,48 +1,24 @@
-#Thresholding
+##arithmatic and logical operation
 
-https://github.com/Iyyanar22009120/THRESHOLDING
+https://github.com/Sargurukumaresan/EXPERIMENT--01-ALP-FOR-8086
 
-#Read and write
 
-https://github.com/praveenst13/READ-AND-WRITE-IMAGE
+##ARM development board
 
-#Huffman coding
+https://github.com/Sargurukumaresan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
 
-https://github.com/praveenst13/HUFFMAN-CODING-
+##push button
 
-#opening and closing
+https://github.com/Sargurukumaresan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-
 
-https://github.com/praveenst13/OPENING--CLOSING
+##16x2 your name and roll no
 
-#erosion and dilation
+https://github.com/Sargurukumaresan/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-
 
-https://github.com/praveenst13/EROSION-AND-DILATION
+##4x4 matrix 
 
-#edge link hough and transform
+https://github.com/Sargurukumaresan/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD?tab=readme-ov-file
 
-https://github.com/praveenst13/EDGE--LINKING-HOUGH-TRANSFORM
+## square wave
 
-#edgedection
-
-https://github.com/praveenst13/EDGEDETECTION
-
-#Filtiers
-
-https://github.com/praveenst13/IMPLEMENTATION-OF-FILTERSS
-
-#image transformmation
-
-https://github.com/Iyyanar22009120/IMAGETRANSFORMATION
-
-#Histogram
-
-https://github.com/praveenst13/HISTOGRAM
-
-#color conversion
-
-https://github.com/praveenst13/COLOR-CONVERSION
-
-#Image-Acquisition-from-Web-Cameraa
-
-https://github.com/praveenst13/Image-Acquisition-from-Web-Cameraa
-
+https://github.com/Sargurukumaresan/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
