@@ -1,24 +1,23 @@
-##arithmatic and logical operation
+## GPU BASED VECTOR SUMMATION
 
-https://github.com/Sargurukumaresan/EXPERIMENT--01-ALP-FOR-8086
+https://github.com/Sargurukumaresan/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24
 
+## Matrix summation with a 2D grid and 2D blocks.
 
-##ARM development board
+https://github.com/Sargurukumaresan/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24
 
-https://github.com/Sargurukumaresan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
+## Parallel reduction using Unrolling Techniques.
 
-##push button
+https://github.com/Sargurukumaresan/PCA-EXP-3-PARALLEL-REDUCTION-USING-UNROLLING-TECHNIQUES-AY-23-24
 
-https://github.com/Sargurukumaresan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-
+## Matrix addition with unified memory
 
-##16x2 your name and roll no
+https://github.com/Sargurukumaresan/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24
 
-https://github.com/Sargurukumaresan/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-
+## Matrix Multiplication using CUDA
 
-##4x4 matrix 
+https://github.com/Sargurukumaresan/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
 
-https://github.com/Sargurukumaresan/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD?tab=readme-ov-file
+## Matrix Transposition using Shared memory
 
-## square wave
-
-https://github.com/Sargurukumaresan/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
+https://github.com/Sargurukumaresan/PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24
